@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hello, My name is Oyugbo Jonah Osagie
+Let help to fight Covid-19 Pendamic 
